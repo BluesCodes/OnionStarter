@@ -1,0 +1,1 @@
+﻿This folder is here in case we want to practice CQRS approach which seperates the query and command ( read and write ) 

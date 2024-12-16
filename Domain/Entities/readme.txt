@@ -1,0 +1,1 @@
+﻿this is where the main model/class/object/entities are supposed to be stored. DTO's are not to be stored here
